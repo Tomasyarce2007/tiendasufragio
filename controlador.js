@@ -1,109 +1,143 @@
 //OBJETOS
 let producto1={
-    nombre:"producto1",
-    precio:500000,
+    nombre:"Animal Crossing Nintendo Switch",
+    precio:260000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto2={
-    nombre:"producto2",
-    precio:500000,
+    nombre:"COLD WAR PS5",
+    precio:283500,
     estado:"Nuevo",
     foto:""
 }
 
 let producto3={
-    nombre:"producto3",
-    precio:500000,
+    nombre:"Control Pro Switch",
+    precio:336000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto4={
-    nombre:"producto4",
-    precio:500000,
+    nombre:"DAYS GONE PS4",
+    precio:140000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto5={
-    nombre:"producto5",
-    precio:500000,
+    nombre:"DIADEMA KOTION G9000 AZUL",
+    precio:105000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto6={
-    nombre:"producto6",
-    precio:500000,
+    nombre:"ESTUCHE SWITCH LITE MARIO",
+    precio:85000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto7={
-    nombre:"producto7",
-    precio:500000,
+    nombre:"Estuches Nintendo Switch",
+    precio:127000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto8={
-    nombre:"producto8",
-    precio:500000,
+    nombre:"FIFA 21 PS4",
+    precio:98000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto9={
-    nombre:"producto9",
-    precio:500000,
+    nombre:"GHOST RECON BREAK POINT",
+    precio:63000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto10={
-    nombre:"producto10",
-    precio:500000,
+    nombre:"JOY-CON NINTENDO SWITCH",
+    precio:357000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto11={
-    nombre:"producto11",
+    nombre:"JUST DANCE 2021 SWITCH",
     precio:500000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto12={
-    nombre:"producto12",
-    precio:500000,
+    nombre:"Mario + Rabbids kingdom battle",
+    precio:1700000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto13={
-    nombre:"producto13",
-    precio:500000,
+    nombre:"MARIO 3D WORLD BOWSERS FURY",
+    precio:220500,
     estado:"Nuevo",
     foto:""
 }
 
 let producto14={
-    nombre:"producto14",
-    precio:500000,
+    nombre:"Mario Kart Deluxe Nintendo Switch",
+    precio:220000,
     estado:"Nuevo",
     foto:""
 }
 
 let producto15={
-    nombre:"producto15",
-    precio:500000,
+    nombre:"Mario Odyssey Switch",
+    precio:220000,
     estado:"Nuevo",
     foto:""
 }
 
+let producto16={
+    nombre:"Mario Tennis Acces",
+    precio:22000,
+    estado:"Nuevo",
+    foto:""
+}
+
+let producto17={
+    nombre:"Mario y Sonic Olympic Games",
+    precio:220000,
+    estado:"Nuevo",
+    foto:""
+}
+
+let producto18={
+    nombre:"NINTENDO SWITCH LITE",
+    precio:945000,
+    estado:"Nuevo",
+    foto:""
+}
+
+let producto19={
+    nombre:"NINTENDO SWITCH LITE + JUEGO",
+    precio:1113000,
+    estado:"Nuevo",
+    foto:""
+}
+
+let producto20={
+    nombre:"Nintendo Switch Neon Caja Roja Programado",
+    precio:1680000,
+    estado:"Nuevo",
+    foto:""
+}
 //ARREGLO
 let productos=Array(
     producto1,
