@@ -182,213 +182,273 @@ let producto20={
 }
 
 let producto21={
-    nombre:"PS3",
-    precio:1400000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/clinicadelplay-2f668.appspot.com/o/PS3.jpg?alt=media&token=7420dc69-ebde-4ecc-8f3e-d8eca328f27e"
+    nombre:"Play station plus 12 meses",
+    precio:228000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan21.jpg?alt=media&token=d64b7f2b-b026-4e61-81b7-54712c81ff43",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto22={
-    nombre:"Mortal Kombat",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/clinicadelplay-2f668.appspot.com/o/mortal.jpg?alt=media&token=ae641306-4aab-4611-964a-063e327384c3"
+    nombre:"Tarjeta play station 25 dolares para cuenta americana",
+    precio:118000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan22.jpg?alt=media&token=7c2fdd7a-29fc-4427-8ec9-0258603007cc",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto23={
-    nombre:"PS4 slime",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"GTA V premiun edition - ps4",
+    precio:100000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan23.jpg?alt=media&token=bdcd1124-c436-49e3-a973-aab23c4d367a",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto24={
-    nombre:"PS5 con aditamentos",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/clinicadelplay-2f668.appspot.com/o/play5.jpg?alt=media&token=8eb66bd9-85b1-4038-8f4b-eac1aea4a03d"
+    nombre:"Diadema Gamer Onikuma K2 PRO Multiplataforma",
+    precio:88000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan24.jpg?alt=media&token=3654bad6-0324-4f0d-9d1a-0fb28d071aec",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto25={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CALL OF DUTY: VANGUARD - PS5 JUEGO FÍSICO EN ESPAÑOL",
+    precio:288000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan25.jfif?alt=media&token=90a7d001-968b-423f-934f-5ddc74eae304",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto26={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"FIFA 22 EDICIÓN ESTÁNDAR- PS4",
+    precio:140000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan26.jpg?alt=media&token=56fd6b0b-6599-49d4-bb29-0c49a7e26c1b",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto27={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CABLE DE CARGA USB PARA PS5 DE 3 METROS",
+    precio:15000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan27.jpg?alt=media&token=4d586f23-5e76-4758-a2ea-ba15c947d465",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto28={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"Diadema Gamer Onikuma K1B Multiplataforma",
+    precio:60000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan28.jpg?alt=media&token=8227b98e-f255-4cf2-a57c-f8673c9f4365",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto29={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"SOPORTE CELULAR PARA JUGAR EN CONTROL DE PS5",
+    precio:20000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan29.jpg?alt=media&token=3de202fe-b916-48ef-bb21-8da1813eba31",
+    pais: "Colombia",
+    popularidad:"★★★"
 }
 
 let producto30={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CARGADOR DUAL PARA CONTROLES DE PS5 CON ILUMINACIÓN LED",
+    precio:69000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan30.jpg?alt=media&token=749f5978-a438-486d-88a5-e8cf09577a56",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto31={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre: "play station plus 3 meses",
+    precio:60000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan31.jpg?alt=media&token=33042c64-0118-4506-b244-f2867d54cb4c",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto32={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"BASE MULTIFUNCIONAL PARA NINTENDO SWITCH",
+    precio:28000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan32.jpg?alt=media&token=298ada19-27b0-4033-b77d-9e68ca7508b9",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto33={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"BASE VERTICAL REFRIGERANTE MULTIFUNCIONAL PARA PS4",
+    precio:100000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan33.jpg?alt=media&token=0f3e979e-2657-45d6-93d6-5f9c5fa4a6f9",
+    pais: "Colombia",
+    popularidad:"★★★"
 }
 
 let producto34={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CABLE DE CARGA USB PARA PS4 DE 1.2 METROS",
+    precio:13000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan34.jpg?alt=media&token=d828ab96-f30f-4ac0-b9f8-bfafa3360f82",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto35={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CARGADOR DUAL DE CONTROLES 4 EN 1 CON INDICADOR DE CARGA LED",
+    precio:50000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan35.jpg?alt=media&token=31ae3914-1802-4f6c-9fe8-e40013c069c8",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto36={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"Diadema Gamer Phoinikas H3 Multiplataforma",
+    precio:80000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan36.jpg?alt=media&token=7461d15c-e45d-409a-9864-7e81d5a7d570",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto37={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"BORDERLANDS 3 - PS4",
+    precio:67000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan37.jpg?alt=media&token=00e9a433-c91b-4f23-9a80-499b61b90ae3",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto38={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CALL OF DUTY BLACK OPS COLD WAR - PS4 JUEGO FÍSICO EN ESPAÑOL",
+    precio:93000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan38.jpg?alt=media&token=57d3b461-5388-4972-9c4c-3b54c7b45390",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto39={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CAPITAN TSUBASA - PS4",
+    precio:86000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan39.jpg?alt=media&token=179032b6-fdb9-4d94-88a5-7938199cae7a",
+    pais: "Colombia",
+    popularidad:"★★★"
 }
 
 let producto40={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"DEATH STRANDING - PS4",
+    precio:98000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan40.jpg?alt=media&token=2bf83e94-e5a1-4d0f-96e7-80b0773317c0",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto41={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"FINAL FANTASY VII REMAKE - PS4",
+    precio:200000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan41.jpg?alt=media&token=83ea7305-a4e1-4eaf-b24e-d1d318af887d",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto42={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"HORIZON ZERO DAWN EDICIÓN COMPLETA - PS4",
+    precio:70000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan42.jpg?alt=media&token=28b7e9a1-8f2d-474a-a257-6a20970dae7a",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto43={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"MADDEN NFL 21 - PS4",
+    precio:78000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan43.jpg?alt=media&token=668ad8d6-7ff1-4f7f-825a-137c0f5796f3",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto44={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"MASS EFFECT ANDROMEDA - PS4",
+    precio:68000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan44.jpg?alt=media&token=60740c98-40eb-48b0-a50d-36a814c8acb6",
+    pais: "Colombia",
+    popularidad:"★★"
 }
 
 let producto45={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"RATCHET AND CLANK - PS4",
+    precio:100000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan45.jpg?alt=media&token=86628318-8401-49ac-ba56-15a2aa84f549",
+    pais: "Colombia",
+    popularidad:"★★★"
 }
 
 let producto46={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"RESIDENT EVIL 3 - PS4",
+    precio:150000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan46.jpg?alt=media&token=ce0cdc6b-75cc-4b36-9bf9-1f62f7c091c9",
+    pais: "Colombia",
+    popularidad:"★★★★"
 }
 
 let producto47={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"TECLADO GAMER MECÁNICO JALTECH GTX80T",
+    precio:200000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan47.jpg?alt=media&token=584f3727-9445-4571-b4b2-318797c35ecb",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto48={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CONTROL INALÁMBRICO PARA XBOX 360",
+    precio:78000,
+    estado:false,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan48.jpg?alt=media&token=4fa9cc72-23ac-43e6-a192-e31d628b55cb",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto49={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CONTROL PS5 DUALSENSE® BLANCO",
+    precio:300000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan49.jpg?alt=media&token=e4441d64-1779-4975-a8c8-061d81fa8a4b",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 
 let producto50={
-    nombre:"Nintendo Switch Neon Caja Roja Programado",
-    precio:1680000,
-    estado:"false",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan20.jpg?alt=media&token=9313b0f5-8ff9-4e9f-8437-621d04a00e4f"
+    nombre:"CONTROL TIPO PRO INALAMBRICO PARA NINTENDO SWITCH",
+    precio:100000,
+    estado:true,
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan50.jpg?alt=media&token=03c76543-8ad2-4700-9e38-49369ca92486",
+    pais: "Colombia",
+    popularidad:"★★★★★"
 }
 //ARREGLO
 let productos=Array(
@@ -455,13 +515,13 @@ productos.forEach(function(producto){
     foto.src = producto.foto
 
     let columna = document.createElement("div")
-    columna.classList.add("col", "mt-2")
+    columna.classList.add("col", "mt-4")
 
     let tarjeta = document.createElement("div")
-    tarjeta.classList.add("card" , "h-100" ,"padre")
+    tarjeta.classList.add("card" , "p-3","h-100" ,"shadow", "bg-dark","text-white","text-center")
 
     let nombreProducto = document.createElement("h6")
-    nombreProducto.classList.add("text-center")
+    nombreProducto.classList.add("text-center" + "text-white")
     nombreProducto.textContent = producto.nombre
 
     let precio = document.createElement("h6")
@@ -482,12 +542,12 @@ productos.forEach(function(producto){
     popularidad.textContent = producto.popularidad
     
     if(producto.estado == true){
-        estado.classList.add("text-center", "text-secondary")
+        estado.classList.add("text-center", "text-light")
         estado.textContent = "Estado: Nuevo"
     }
 
     else{
-        estado.classList.add("text-center", "text-secondary")
+        estado.classList.add("text-center", "text-light")
         estado.textContent = "Estado: Usado"
     }
 
