@@ -448,7 +448,8 @@ let producto50={
     estado:true,
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-65ffd.appspot.com/o/pan50.jpg?alt=media&token=03c76543-8ad2-4700-9e38-49369ca92486",
     pais: "Colombia",
-    popularidad:"★★★★★"
+    popularidad:"★★★★★",
+    vinculo: ""
 }
 //ARREGLO
 let productos=Array(
